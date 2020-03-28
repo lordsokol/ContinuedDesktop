@@ -1,0 +1,11 @@
+C:\Projects\ContunuedDesktop\ContunuedDesktop\bin\Release\ContunuedDesktop.exe.config
+C:\Projects\ContunuedDesktop\ContunuedDesktop\bin\Release\ContunuedDesktop.exe
+C:\Projects\ContunuedDesktop\ContunuedDesktop\bin\Release\ContunuedDesktop.pdb
+C:\Projects\ContunuedDesktop\ContunuedDesktop\bin\Release\Interop.IWshRuntimeLibrary.dll
+C:\Projects\ContunuedDesktop\ContunuedDesktop\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Projects\ContunuedDesktop\ContunuedDesktop\obj\Release\ContunuedDesktop.csproj.ResolveComReference.cache
+C:\Projects\ContunuedDesktop\ContunuedDesktop\obj\Release\ContunuedDesktop.ContinuedDesktopMain.resources
+C:\Projects\ContunuedDesktop\ContunuedDesktop\obj\Release\ContunuedDesktop.Properties.Resources.resources
+C:\Projects\ContunuedDesktop\ContunuedDesktop\obj\Release\ContunuedDesktop.csproj.GenerateResource.Cache
+C:\Projects\ContunuedDesktop\ContunuedDesktop\obj\Release\ContunuedDesktop.exe
+C:\Projects\ContunuedDesktop\ContunuedDesktop\obj\Release\ContunuedDesktop.pdb
